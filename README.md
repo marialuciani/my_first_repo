@@ -6,4 +6,3 @@ My first repo for demo in computational social science class
 
 Adding text to subheader section yay! :)
 
-editing testing2 branch
